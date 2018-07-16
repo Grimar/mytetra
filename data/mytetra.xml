@@ -15,7 +15,15 @@
    <node crypt="" id="1531159620itw3qug1fl" name="FPGA"/>
   </node>
   <node crypt="" icon="/Universal/nocolor_universal_coding.svg" id="1531779572rh7pwoq8gr" name="Programming">
-   <node crypt="" icon="/Python/icons8-python-50.png" id="1531779578iyzqrz26bp" name="Python"/>
+   <node crypt="" icon="/Python/icons8-python-50.png" id="1531779578iyzqrz26bp" name="Python">
+    <recordtable>
+     <record id="1531784450kwgp2c6fjm" name="Learning Python 5ed" author="Mark Lutz" url="http://www.dsf.unica.it/~fiore/LearningPython.pdf" tags="" ctime="20180717024050" dir="15317844502bv99uk987" file="text.html">
+      <files>
+       <file id="15317844791uyyzga5b9" fileName="LearningPython.pdf" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
