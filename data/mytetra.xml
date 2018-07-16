@@ -11,7 +11,15 @@
    </recordtable>
   </node>
   <node crypt="" icon="/Universal/nocolor_universal_full-charge.svg" id="153115957110kou3piu7" name="Electronics">
-   <node crypt="" id="1531159620itw3qug1fl" name="FPGA"/>
+   <node crypt="" id="1531159620itw3qug1fl" name="FPGA">
+    <recordtable>
+     <record id="1531785385z1qrl602ur" name="Beginning FPGA - Programming Metal  - 2017" author="A.Pang,  P.Membrey" url="" tags="books electronics fpga programming" ctime="20180717025625" dir="1531785385pkg1u549zw" file="text.html">
+      <files>
+       <file id="1531785449au76w2cgrb" fileName="A.Pang,  P.Membrey - Beginning FPGA- Programming Metal  - 2017.pdf" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
    <node crypt="" id="1531785023ej81os9208" name="Audio">
     <recordtable>
      <record id="1531785092bz8wbw9j7l" name="Solidstate Guitar Amplifiers" author="Teemu Kyttala" url="" tags="books guitar amplifier electronics" ctime="20180717025132" dir="15317850926cuvdzn314" file="text.html">
