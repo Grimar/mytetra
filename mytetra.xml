@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" icon="/Universal/nocolor_universal_web-news.svg" id="1300000000aaaaaaaaa1" name="Printing and Publishing">
+   <recordtable>
+    <record id="1531159415y6178b10bc" name="Классификация CtP-технологий и расходных материалов&#10;(КомпьюАрт 4-2017)" author="Николай Дубина info@prodtp.ru" url="https://compuart.ru/article/25317" tags="CtP CtCP" ctime="20180709210520" dir="1531159415uybucm76li" file="text.html"/>
+    <record id="15311598276y8dts0d0z" name="Классификация CtP-технологий и расходных материалов. Часть2 (КомпьюАрт 5-2017)" author="Николай Дубина info@prodtp.ru" url="https://compuart.ru/article/25327" tags="CtP CtCP" ctime="20180709211027" dir="1531159827aoiof9z0ht" file="text.html"/>
+    <record id="15312025091pj6zuxjke" name="Ценообразование в полиграфии (КомпьюАрт 5-2017)" author="Марсель Шарифуллин, типография ВШЭ" url="https://compuart.ru/article/25326" tags="полиграфия цены АСУП" ctime="20180710090149" dir="1531202509rrywm1d8iz" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" icon="/Universal/nocolor_universal_full-charge.svg" id="153115957110kou3piu7" name="Electronics">
+   <node crypt="" id="1531159620itw3qug1fl" name="FPGA"/>
+  </node>
+ </content>
+</root>
