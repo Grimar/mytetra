@@ -8,21 +8,29 @@
     <record id="1531159415y6178b10bc" name="Классификация CtP-технологий и расходных материалов&#10;(КомпьюАрт 4-2017)" author="Николай Дубина info@prodtp.ru" url="https://compuart.ru/article/25317" tags="CtP CtCP" ctime="20180709210520" dir="1531159415uybucm76li" file="text.html"/>
     <record id="15311598276y8dts0d0z" name="Классификация CtP-технологий и расходных материалов. Часть2 (КомпьюАрт 5-2017)" author="Николай Дубина info@prodtp.ru" url="https://compuart.ru/article/25327" tags="CtP CtCP" ctime="20180709211027" dir="1531159827aoiof9z0ht" file="text.html"/>
     <record id="15312025091pj6zuxjke" name="Ценообразование в полиграфии (КомпьюАрт 5-2017)" author="Марсель Шарифуллин, типография ВШЭ" url="https://compuart.ru/article/25326" tags="полиграфия цены АСУП" ctime="20180710090149" dir="1531202509rrywm1d8iz" file="text.html"/>
-    <record id="1531783741tbhmermsr0" name="222" author="" url="" tags="" ctime="20180717022901" dir="1531783741urpocj1x0e" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" icon="/Universal/nocolor_universal_full-charge.svg" id="153115957110kou3piu7" name="Electronics">
    <node crypt="" id="1531159620itw3qug1fl" name="FPGA"/>
+   <node crypt="" id="1531785023ej81os9208" name="Audio">
+    <recordtable>
+     <record id="1531785092bz8wbw9j7l" name="Solidstate Guitar Amplifiers" author="Teemu Kyttala" url="" tags="books guitar amplifier electronics" ctime="20180717025132" dir="15317850926cuvdzn314" file="text.html">
+      <files>
+       <file id="153178510642zexttlwu" fileName="solidstate_guitar_amplifiers_teemu_kyttala_v1.0.pdf" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" icon="/Universal/nocolor_universal_coding.svg" id="1531779572rh7pwoq8gr" name="Programming">
    <node crypt="" icon="/Python/icons8-python-50.png" id="1531779578iyzqrz26bp" name="Python">
     <recordtable>
-     <record id="1531784450kwgp2c6fjm" name="Learning Python 5ed" author="Mark Lutz" url="http://www.dsf.unica.it/~fiore/LearningPython.pdf" tags="" ctime="20180717024050" dir="15317844502bv99uk987" file="text.html">
+     <record id="1531784450kwgp2c6fjm" name="Learning Python 5ed" author="Mark Lutz" url="http://www.dsf.unica.it/~fiore/LearningPython.pdf" tags="books python" ctime="20180717024050" dir="15317844502bv99uk987" file="text.html">
       <files>
        <file id="15317844791uyyzga5b9" fileName="LearningPython.pdf" type="file"/>
       </files>
      </record>
-     <record id="1531784809hko7xtitfx" name="Programming Python 4ed" author="Mark Lutz" url="https://doc.lagout.org/programmation/python/Programming%20Python%2C%204th%20Edition%20%282010%29.pdf" tags="" ctime="20180717024649" dir="1531784809fdpgof2gl3" file="text.html">
+     <record id="1531784809hko7xtitfx" name="Programming Python 4ed" author="Mark Lutz" url="https://doc.lagout.org/programmation/python/Programming%20Python%2C%204th%20Edition%20%282010%29.pdf" tags="books python" ctime="20180717024649" dir="1531784809fdpgof2gl3" file="text.html">
       <files>
        <file id="1531784890706z6d4522" fileName="Programming Python, 4th Edition (2010).pdf" type="file"/>
       </files>
