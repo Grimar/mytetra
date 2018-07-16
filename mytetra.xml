@@ -14,7 +14,7 @@
    <node crypt="" id="1531159620itw3qug1fl" name="FPGA"/>
   </node>
   <node crypt="" icon="/Universal/nocolor_universal_coding.svg" id="1531779572rh7pwoq8gr" name="Programming">
-   <node crypt="" icon="/Python/python-logo-bw-contour-512x512.png" id="1531779578iyzqrz26bp" name="Python"/>
+   <node crypt="" icon="/Python/icons8-python-50.png" id="1531779578iyzqrz26bp" name="Python"/>
   </node>
  </content>
 </root>
