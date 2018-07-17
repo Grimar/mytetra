@@ -18,6 +18,11 @@
        <file id="1531785449au76w2cgrb" fileName="A.Pang,  P.Membrey - Beginning FPGA- Programming Metal  - 2017.pdf" type="file"/>
       </files>
      </record>
+     <record id="1531785608somrj7fk0f" name="Lattice ice40 family handbook" author="" url="" tags="fpga lattice ice40 datasheet" ctime="20180717030008" dir="1531785608hz2j40ei9f" file="text.html">
+      <files>
+       <file id="15317856175ktn3xnigc" fileName="iCE40FamilyHandbook.pdf" type="file"/>
+      </files>
+     </record>
     </recordtable>
    </node>
    <node crypt="" id="1531785023ej81os9208" name="Audio">
